@@ -1,0 +1,9 @@
+.regestration{
+    display: block;
+    position: absolute;
+    margin-left: 30%; /* Отступ слева */
+    width: 40%; /* Ширина слоя */
+}
+#reg_message{
+    
+}
